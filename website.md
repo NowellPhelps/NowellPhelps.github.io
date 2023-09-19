@@ -34,4 +34,4 @@ If you're bored (and with a friend) here's [a two player flash game I made in 20
 
 ## CV
 ### 
-My CV can be downloaded [here](../files/Nowell Phelps CV.pdf).
+My CV can be downloaded [here](../files/Nowell Phelps CV 19 September 2023.pdf).
