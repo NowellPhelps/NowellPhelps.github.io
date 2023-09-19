@@ -28,10 +28,11 @@ If you're bored (and with a friend) here's [a two player flash game I made in 20
 
 ## Photos
 ### 
-![dog](../media/dog.webp) ![dog](../media/rosa_tsiblisi.webp)
-![dog](../media/luke_benn.webp) ![dog](../media/truck_schoolbus.webp)
-![dog](../media/rosa_cathedral.webp) ![dog](../media/emma_salt.webp) 
-![dog](../media/moon.webp)  ![dog](../media/bike_beach.webp)
+![dog](../media/dog.webp) ![dog](../media/truck_schoolbus.webp)
+![dog](../media/rosa_cathedral.webp) ![dog](../media/bike_beach.webp)
+![dog](../media/luke_benn.webp)  ![dog](../media/rosa_tsiblisi.webp)
+![dog](../media/emma_salt.webp) ![dog](../media/moon.webp) 
+ 
 
 ## CV
 ### 
