@@ -10,6 +10,7 @@ Before this I studied Mathematics at the University of Oxford, where I specialis
  
 I’m broadly interested in using data-driven modelling to inform effective policymaking and interventions. More specifically, I hope to work on quantifying and predicting the effects of climate changes and shocks on population health. Beyond academics, I’m an avid cyclist, climber, and reader, and enjoy thinking about politics, migration, culture, and how science and public policy interact.
 
+help
 ![track](../media/track.webp)
 
 ## Publications and projects
