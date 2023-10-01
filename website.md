@@ -6,7 +6,7 @@ I currently work as a research assistant for [Majid Ezzati](https://www.imperial
 
 Before this I studied Mathematics at the University of Oxford, where I specialised in Network Science, Mathematical Biology, and Combinatorics. My Master’s dissertation described and investigated a coevolutionary hypergraph model for opinion dynamics. At the end of my fourth year I was awarded a Summer Studentship at the [Big Data Institute](https://www.bdi.ox.ac.uk), where I worked on constructing household-level metrics for schistosomiasis infection risk and investigating the spatial distribution of mass drug treatment. 
  
-I’m broadly interested in using data-driven modelling to inform effective policymaking and interventions. More specifically, I hope to work on quantifying and predicting the effects of climate changes and shocks on population health. Beyond academics, I’m an avid cyclist, climber, and reader, and enjoy thinking about politics, migration, culture, and how science and public policy interact.
+I’m broadly interested in using data-driven modelling to inform effective policymaking and interventions. More specifically, I hope to work on quantifying and predicting the effects of climate changes and shocks on population health. Beyond academics, I’m an avid cyclist, climber, and reader, and enjoy thinking about politics, culture, and how science and public policy interact.
 
 ![track](../media/track.webp)
 
