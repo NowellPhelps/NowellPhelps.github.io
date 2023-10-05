@@ -8,6 +8,8 @@ Before this I studied Mathematics at the University of Oxford, where I specialis
  
 I’m broadly interested in using data-driven modelling to inform effective policymaking and interventions. More specifically, I hope to work on quantifying and predicting the effects of climate changes and shocks on population health. Beyond academics, I’m an avid cyclist, climber, and reader, and enjoy thinking about politics, culture, and how science and public policy interact.
 
+I am actively looking for a PhD position; please feel free to contact me[mailto:nowell.phelps@gmail.com] if you have a project which might be a good fit!
+
 ![track](../media/track.webp)
 
 ## Publications and projects
