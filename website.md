@@ -8,7 +8,7 @@ Before this I studied Mathematics at the University of Oxford, where I specialis
  
 I’m broadly interested in using data-driven modelling to inform effective policymaking and interventions. More specifically, I hope to work on quantifying and predicting the effects of climate changes and shocks on population health. Beyond academics, I’m an avid cyclist, climber, and reader, and enjoy thinking about politics, culture, and how science and public policy interact.
 
-I am actively looking for a PhD position; please feel free to contact me[mailto:nowell.phelps@gmail.com] if you have a project which might be a good fit!
+I am actively looking for a PhD position; please feel free to contact me[mailto:nowell.phelps@gmail.com] if you have a project which might be a good fit.
 
 ![track](../media/track.webp)
 
@@ -25,14 +25,6 @@ Here's an essay [Predictive computational modelling for epidemiology](https://ww
 [Stochastic block models and their use in node classification](https://www.overleaf.com/read/bcgbmybqyxby) looks at the use of SBMs in classifying nodes in networks according to their structural properties. I submitted this as coursework for the Mathematics Part C course Networks.
 
 If you're bored (and with a friend) here's [a two player flash game I made in 2013](https://scratch.mit.edu/projects/10098205/).
-
-## Photos
-### 
-![dog](../media/dog.webp) ![dog](../media/rosa_tsiblisi.webp)
-![dog](../media/luke_benn.webp) ![dog](../media/truck_schoolbus.webp)
-![dog](../media/rosa_cathedral.webp) ![dog](../media/bike_beach.webp)
-![dog](../media/emma_salt.webp) ![dog](../media/moon.webp) 
- 
 
 ## CV
 ### 
