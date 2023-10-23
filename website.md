@@ -19,7 +19,7 @@ NCD Risk Factor Collaboration. [Diminishing benefits of urban living for childre
 ### Projects
 My [Master's dissertation](https://www.overleaf.com/read/qvvdfhvtkxpz) looked at opinion dynamics in the context of higher-order interactions, through proposing and investigating an extension of the coevolutionary network voter model to 3-uniform hypergraphs. 
 
-Here's an essay [Predictive computational modelling for epidemiology](https://www.overleaf.com/read/mxsrcscjnzsk), which I submitted for the Statistics Part C course Topics in Computational Biology. It gives an overview of common methods and challenges in modelling infectious disease outbreaks. 
+I submitted the essay [Predictive computational modelling for epidemiology](https://www.overleaf.com/read/mxsrcscjnzsk) for the Statistics Part C course Topics in Computational Biology. It gives an overview of common methods and challenges in modelling infectious disease outbreaks. 
 
 [Stochastic block models and their use in node classification](https://www.overleaf.com/read/bcgbmybqyxby) looks at the use of SBMs in classifying nodes in networks according to their structural properties. I submitted this as coursework for the Mathematics Part C course Networks.
 
