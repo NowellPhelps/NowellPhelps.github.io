@@ -2,7 +2,7 @@
 
 ## About
 ### 
-I currently work as a research assistant for [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://ncdrisc.org), estimating trends in risk factors for non-communicable diseases using a Bayesian hierarchical model. I am leading an analysis updating our BMI and obesity estimates.
+I currently work as a research assistant for [Majid Ezzati](https://www.imperial.ac.uk/people/majid.ezzati) at Imperial College London, as part of the [NCD Risk Factor Collaboration](https://ncdrisc.org), estimating trends in risk factors for non-communicable diseases using a Bayesian hierarchical model. I lead an analysis updating the underweight and obesity estimates adopted by the WHO.
 
 Before this I studied Mathematics at the University of Oxford, where I specialised in Network Science, Mathematical Biology, and Combinatorics. My Master’s dissertation described and investigated a coevolutionary hypergraph model for opinion dynamics. At the end of my fourth year I was awarded a Summer Studentship at the [Big Data Institute](https://www.bdi.ox.ac.uk), where I worked on constructing household-level metrics for schistosomiasis infection risk and investigating the spatial distribution of mass drug treatment. 
  
