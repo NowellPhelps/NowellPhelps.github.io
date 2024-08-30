@@ -2,9 +2,9 @@
 
 ## About
 ### 
-I am a PhD student in the Department of Biostatistics at Johns Hopkins University. I am broadly interested in using data-driven modelling to inform effective and equitable policymaking and interventions. I am particularly interested in applications in international health.
+I am a PhD student in the Department of Biostatistics at Johns Hopkins University. I am broadly interested in using data-driven modelling to inform effective and equitable policymaking and interventions, and am particularly interested in applications in international health.
 
-I previously studied Mathematics at the University of Oxford. After graduating I worked as an RA in Epidemiology and Population Health at Imperial College London, where I lead an analysis updating the World Health Organization's global obesity estimates, and spent four months as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center in Kigali, Rwanda.
+I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Mazid Ezzati at Imperial College London; at ICL I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
 
 Outside of academia, I'm an avid biker, climber and reader, and enjoy thinking about politics, culture, and how science and public policy interact.
 
@@ -25,15 +25,6 @@ NCD Risk Factor Collaboration (NCD-RisC). "General and abdominal adiposity and h
 NCD Risk Factor Collaboration (NCD-RisC). "Global variation in diabetes diagnosis and prevalence based on fasting glucose and hemoglobin A1c". Nature Medicine (2023).
 
 NCD Risk Factor Collaboration (NCD-RisC). "Diminishing benefits of urban living for children and adolescents’ growth and development]". Nature (2023).
-
-
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-  [1]:http://google.com/        "Google"
-  [2]:http://search.yahoo.com/  "Yahoo Search"
-  [3]:http://search.msn.com/    "MSN Search"
-  
   
 
 ## CV
