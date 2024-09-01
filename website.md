@@ -4,27 +4,21 @@
 ### 
 I am a PhD student in the Department of Biostatistics at Johns Hopkins University. I am broadly interested in using data-driven modelling to inform effective and equitable policymaking and interventions, and am particularly interested in applications in international health.
 
-I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Mazid Ezzati at Imperial College London; at ICL I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
+I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Mazid Ezzati at Imperial College London; while there I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
 
-Outside of academia, I'm an avid biker, climber and reader, and enjoy thinking about politics, culture, and how science and public policy interact.
+Outside of academia I enjoy cycling, climbing, reading, and spending as much time outside as possible.
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
 ## Publications
 ### 
-* denotes joint lead authorship
+NCD Risk Factor Collaboration (NCD-RisC). [General and abdominal adiposity and hypertension in eight world regions: a pooled analysis of 837 population-based studies with 7·5 million participants](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2824%2901405-3/fulltext). The Lancet, 2024.
 
-<b>2024</b>
+NCD Risk Factor Collaboration (NCD-RisC), <b>first author</b>. [Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents, and adults](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2902750-2/fulltext). The Lancet, 2024.
 
-NCD Risk Factor Collaboration (NCD-RisC). "General and abdominal adiposity and hypertension in eight world regions: a pooled analysis of 837 population-based studies with 7·5 million participants" The Lancet (2024).
+NCD Risk Factor Collaboration (NCD-RisC). [Global variation in diabetes diagnosis and prevalence based on fasting glucose and hemoglobin A1c](https://www.nature.com/articles/s41591-023-02610-2). Nature Medicine, 2023.
 
-* NCD Risk Factor Collaboration (NCD-RisC). "Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents, and adults". The Lancet (2024).
-
-<b>2023</b>
-
-NCD Risk Factor Collaboration (NCD-RisC). "Global variation in diabetes diagnosis and prevalence based on fasting glucose and hemoglobin A1c". Nature Medicine (2023).
-
-NCD Risk Factor Collaboration (NCD-RisC). "Diminishing benefits of urban living for children and adolescents’ growth and development]". Nature (2023).
+NCD Risk Factor Collaboration (NCD-RisC). [Diminishing benefits of urban living for children and adolescents’ growth and development](https://www.nature.com/articles/s41586-023-05772-8). Nature, 2023.
   
 
 ## CV
