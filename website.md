@@ -6,7 +6,7 @@ I am a PhD student in the Department of Biostatistics at Johns Hopkins Universit
 
 I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Mazid Ezzati at Imperial College London; while there I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
 
-Outside of academia I enjoy cycling, climbing, reading, and spending as much time outside as possible.
+Outside of academia I enjoy cycling, climbing, and reading.
 
 <img src="../media/me.png" alt="picture" width="400"/>
 
