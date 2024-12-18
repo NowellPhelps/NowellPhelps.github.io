@@ -4,7 +4,7 @@
 ### 
 I am a PhD student in the Department of Biostatistics at Johns Hopkins University. I am broadly interested in using data-driven modelling to inform effective and equitable policymaking and interventions, and am particularly interested in applications in international health.
 
-I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Mazid Ezzati at Imperial College London; while there I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
+I hold an MMath in Mathematics from the University of Oxford. After graduating I worked as a Research Assistant for Majid Ezzati at Imperial College London; while there I led an analysis updating the World Health Organization's obesity estimates, and spent four months in Kigali, Rwanda as a visiting researcher at the African Institute for Mathematical Sciences Research and Innovation Center.
 
 Outside of academia I enjoy cycling, climbing, and reading.
 
